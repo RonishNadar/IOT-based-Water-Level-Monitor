@@ -25,11 +25,9 @@ The monitored data is transferred using MQTT Protocol. The raspberry pi has also
 
 ## Electronics
 #### Electronic Components used:
-- 1 x Arduino MEGA (Microcontroller)
-- 3 x MDDS10 10A Motor Drivers
-- 1 X MDDS20 20A Motor Driver
-- 1 x BLDC Electronic Speed Controller
-- 2 x 30A relays
-- 2 x Solid state relays
-- 15 x Status LEDs
-- 2 x Cooling fans
+- 1 x Raspberry Pi
+- 1 x HC-SR04 Ultrasonic Sensor
+- 1 x 16X2 I2C LCD Display
+- 1 x DC Motor
+- 1 x N Channel MOSFET
+- 1 x Battery
