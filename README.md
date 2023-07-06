@@ -34,3 +34,13 @@ The monitored data is transferred using MQTT Protocol. The raspberry pi has also
 
 ![Mini_Project_Raspi_bb](https://github.com/RonishNadar/IOT-based-Water-Level-Monitor/assets/137984084/ec3fcc4a-9d8f-47d3-bcd5-e9acec397b5f)
 Electronic Diagram
+
+![Raspi_Mobile](https://github.com/RonishNadar/IOT-based-Water-Level-Monitor/assets/137984084/e18753f2-7223-4bd6-88c7-4aec135bc653)
+Mobile Interface
+
+The code is provided above.
+
+## Demonstration Video
+
+https://github.com/RonishNadar/IOT-based-Water-Level-Monitor/assets/137984084/62f6f479-9c53-46c9-8396-1056c5099ae3
+
