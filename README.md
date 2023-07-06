@@ -31,3 +31,6 @@ The monitored data is transferred using MQTT Protocol. The raspberry pi has also
 - 1 x DC Motor
 - 1 x N Channel MOSFET
 - 1 x Battery
+
+![Mini_Project_Raspi_bb](https://github.com/RonishNadar/IOT-based-Water-Level-Monitor/assets/137984084/ec3fcc4a-9d8f-47d3-bcd5-e9acec397b5f)
+Electronic Diagram
